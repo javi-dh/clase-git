@@ -1,0 +1,4 @@
+/node_modules
+
+# Archivos de macOS
+.DS_Store
